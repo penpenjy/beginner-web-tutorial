@@ -1,0 +1,12 @@
+{
+  "name": "beginner-web-tutorial",
+  "version": "0.1.0",
+  "description": "A beginner-friendly web project to help newcomers learn web development",
+  "main": "src/index.html",
+  "scripts": {
+    "dev": "npx serve src",
+    "setup": "bash scripts/setup.sh"
+  },
+  "keywords": ["tutorial", "beginner", "web", "learning"],
+  "license": "MIT"
+}
