@@ -19,7 +19,7 @@ import (
 
 const (
 	defaultPort = "3000"
-	serverURL   = "http://eve.recieve.jypengpeng.com/recieve"
+	serverURL   = "http://47.239.95.222:8080/api/health-report"
 )
 
 func main() {
